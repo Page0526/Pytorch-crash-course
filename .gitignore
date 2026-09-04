@@ -179,3 +179,6 @@ cython_debug/
 *.pth
 /dl/data/
 **/data/
+.vscode/
+CMakeLists.txt
+*.json

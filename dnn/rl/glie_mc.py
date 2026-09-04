@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib as plt
-import gym
+import gymnasium as gym
 
 # follow: https://aleksandarhaber.com/python-implementation-of-the-greedy-in-the-limit-with-infinite-exploration-glie-monte-carlo-control-method-reinforcement-learning-tutorial/
 

@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib as plt
-import gym
+import gymnasium as gym
 
 # follow: https://aleksandarhaber.com/policy-iteration-algorithm-in-python-and-tests-with-frozen-lake-openai-gym-environment-reinforcement-learning-tutorial/
 
